@@ -9,7 +9,7 @@ A simple CLI to remove all the files and folders included in the `.gitignore` fi
 - Config support (TODO)
 - winget support (TODO)
 
-Build by [Vilva](https://twitter.com/notifications)
+Build by [Vilva](https://twitter.com/vilvaathibanpb)
 
 
 
